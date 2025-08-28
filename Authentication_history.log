@@ -82,3 +82,115 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-25 07:44:48,552 - INFO - START Authentication =============================================
+2025-08-25 07:44:48,552 - INFO - START Authentication Start Time = 2025-08-25 07:44:48
+2025-08-25 07:44:48,552 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-25 07:44:48,552 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-25 07:44:49,180 - INFO - PERFORMANCE Authentication The total process duration was:0.63
+2025-08-25 07:44:49,181 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-25 07:44:49
+2025-08-25 07:44:49,181 - INFO - PERFORMANCE Authentication Short process duration less than 3 Seconds:0.63
+2025-08-25 07:44:49,181 - INFO - PERFORMANCE Authentication Performance optimization is not reccomended
+2025-08-25 07:44:49,181 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-25 22:24:09,255 - INFO - START Authentication =============================================
+2025-08-25 22:24:09,257 - INFO - START Authentication Start Time = 2025-08-25 22:24:09
+2025-08-25 22:24:09,257 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-25 22:24:09,260 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-25 22:24:14,011 - INFO - PERFORMANCE Authentication The total process duration was:4.76
+2025-08-25 22:24:14,012 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-25 22:24:14
+2025-08-25 22:24:14,012 - INFO - PERFORMANCE Authentication Low process duration less than 3 minutes:4.76
+2025-08-25 22:24:14,012 - INFO - PERFORMANCE Authentication Performance optimization is optional
+2025-08-25 22:24:14,012 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-26 22:22:04,404 - INFO - START Authentication =============================================
+2025-08-26 22:22:04,404 - INFO - START Authentication Start Time = 2025-08-26 22:22:04
+2025-08-26 22:22:04,404 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-26 22:22:04,405 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-26 22:22:09,300 - INFO - PERFORMANCE Authentication The total process duration was:4.90
+2025-08-26 22:22:09,301 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-26 22:22:09
+2025-08-26 22:22:09,301 - INFO - PERFORMANCE Authentication Low process duration less than 3 minutes:4.90
+2025-08-26 22:22:09,301 - INFO - PERFORMANCE Authentication Performance optimization is optional
+2025-08-26 22:22:09,302 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-26 22:23:10,818 - INFO - START Authentication =============================================
+2025-08-26 22:23:10,818 - INFO - START Authentication Start Time = 2025-08-26 22:23:10
+2025-08-26 22:23:10,819 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-26 22:23:10,820 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-26 22:23:11,639 - INFO - PERFORMANCE Authentication The total process duration was:0.82
+2025-08-26 22:23:11,639 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-26 22:23:11
+2025-08-26 22:23:11,639 - INFO - PERFORMANCE Authentication Short process duration less than 3 Seconds:0.82
+2025-08-26 22:23:11,639 - INFO - PERFORMANCE Authentication Performance optimization is not reccomended
+2025-08-26 22:23:11,639 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-26 23:12:06,876 - INFO - START Authentication =============================================
+2025-08-26 23:12:06,876 - INFO - START Authentication Start Time = 2025-08-26 23:12:06
+2025-08-26 23:12:06,876 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-26 23:12:06,877 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-26 23:12:27,906 - INFO - PERFORMANCE Authentication The total process duration was:21.03
+2025-08-26 23:12:27,907 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-26 23:12:27
+2025-08-26 23:12:27,907 - INFO - PERFORMANCE Authentication Low process duration less than 3 minutes:21.03
+2025-08-26 23:12:27,907 - INFO - PERFORMANCE Authentication Performance optimization is optional
+2025-08-26 23:12:27,907 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-26 23:23:03,794 - INFO - START Authentication =============================================
+2025-08-26 23:23:03,795 - INFO - START Authentication Start Time = 2025-08-26 23:23:03
+2025-08-26 23:23:03,795 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-26 23:23:03,795 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-27 20:59:12,780 - INFO - PERFORMANCE Authentication The total process duration was:77768.99
+2025-08-27 20:59:12,780 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-27 20:59:12
+2025-08-27 20:59:12,780 - INFO - PERFORMANCE Authentication LONG process duration greater than 10 Minutes:77768.99
+2025-08-27 20:59:12,780 - INFO - PERFORMANCE Authentication Performance optimization is required
+2025-08-27 20:59:12,780 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-27 21:01:41,552 - INFO - START Authentication =============================================
+2025-08-27 21:01:41,552 - INFO - START Authentication Start Time = 2025-08-27 21:01:41
+2025-08-27 21:01:41,554 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-27 21:01:41,554 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-27 21:05:10,651 - INFO - PERFORMANCE Authentication The total process duration was:209.10
+2025-08-27 21:05:10,651 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-27 21:05:10
+2025-08-27 21:05:10,651 - INFO - PERFORMANCE Authentication Medium process duration greater than 3 minutes:209.10
+2025-08-27 21:05:10,651 - INFO - PERFORMANCE Authentication Performance optimization is optional
+2025-08-27 21:05:10,651 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-27 21:08:45,453 - INFO - START Authentication =============================================
+2025-08-27 21:08:45,454 - INFO - START Authentication Start Time = 2025-08-27 21:08:45
+2025-08-27 21:08:45,454 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-27 21:08:45,455 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-27 21:27:47,804 - INFO - PERFORMANCE Authentication The total process duration was:1142.35
+2025-08-27 21:27:47,804 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-27 21:27:47
+2025-08-27 21:27:47,804 - INFO - PERFORMANCE Authentication LONG process duration greater than 10 Minutes:1142.35
+2025-08-27 21:27:47,804 - INFO - PERFORMANCE Authentication Performance optimization is required
+2025-08-27 21:27:47,804 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
