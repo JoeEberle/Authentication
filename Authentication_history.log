@@ -194,3 +194,45 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-27 21:28:08,342 - INFO - START Authentication =============================================
+2025-08-27 21:28:08,342 - INFO - START Authentication Start Time = 2025-08-27 21:28:08
+2025-08-27 21:28:08,342 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-27 21:28:08,344 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-30 17:50:50,178 - INFO - PERFORMANCE Authentication The total process duration was:246161.84
+2025-08-30 17:50:50,178 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-30 17:50:50
+2025-08-30 17:50:50,178 - INFO - PERFORMANCE Authentication LONG process duration greater than 10 Minutes:246161.84
+2025-08-30 17:50:50,178 - INFO - PERFORMANCE Authentication Performance optimization is required
+2025-08-30 17:50:50,178 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-30 17:51:06,027 - INFO - START Authentication =============================================
+2025-08-30 17:51:06,028 - INFO - START Authentication Start Time = 2025-08-30 17:51:06
+2025-08-30 17:51:06,028 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-30 17:51:06,028 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-31 10:22:19,022 - INFO - PERFORMANCE Authentication The total process duration was:59473.00
+2025-08-31 10:22:19,022 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-31 10:22:19
+2025-08-31 10:22:19,022 - INFO - PERFORMANCE Authentication LONG process duration greater than 10 Minutes:59473.00
+2025-08-31 10:22:19,022 - INFO - PERFORMANCE Authentication Performance optimization is required
+2025-08-31 10:22:19,022 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-08-31 13:34:40,166 - INFO - START Authentication =============================================
+2025-08-31 13:34:40,166 - INFO - START Authentication Start Time = 2025-08-31 13:34:40
+2025-08-31 13:34:40,166 - INFO - Authentication Step 0 - Initialize the configuration file parser
+2025-08-31 13:34:40,166 - INFO - Process Authentication Step 0 - Initializing and starting Logging Process.
+2025-08-31 13:42:11,087 - INFO - PERFORMANCE Authentication The total process duration was:450.92
+2025-08-31 13:42:11,088 - INFO - PERFORMANCE Authentication Stop Time = 2025-08-31 13:42:11
+2025-08-31 13:42:11,089 - INFO - PERFORMANCE Authentication Medium process duration greater than 3 minutes:450.92
+2025-08-31 13:42:11,089 - INFO - PERFORMANCE Authentication Performance optimization is optional
+2025-08-31 13:42:11,089 - INFO - END Authentication =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
