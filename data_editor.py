@@ -10,9 +10,9 @@ import streamlit as st
 st.set_page_config(page_title="Data Editor (Sidebar Controls)", layout="wide")
 
 # Title stays above the editor; all controls go to the sidebar.
-st.title("📝 DataFrame Editor")
+st.title("📝 DataFrame Editor v1.2")
 
-ALLOWED_EXTS = {".xlsx", ".xls", ".csv", ".parquet", ".pq", ".json"}
+ALLOWED_EXTS = {".xlsx", ".xls", ".csv", ".parquet", ".pq", ".json", ".feather", ".pickle"} 
 
 # ---------- Helpers ----------
 def load_df(p: Path) -> pd.DataFrame:
@@ -38,6 +38,10 @@ def save_df(df: pd.DataFrame, p: Path, fmt: str, sqlite_table: str | None = None
         df.to_parquet(p, index=False)
     elif fmt == "excel":
         df.to_excel(p, index=False)
+    elif fmt == "feather":
+        df.to_feather(p, index=False)   
+    elif fmt == "pickle":
+        df.to_pickle(p, index=False)                
     elif fmt == "json":
         df.to_json(p, orient="records", indent=2, date_format="iso", force_ascii=False)
     elif fmt == "sqlite":
@@ -72,6 +76,10 @@ def infer_fmt_from_ext(ext: str) -> str | None:
         return "parquet"
     if ext in {".xlsx", ".xls"}:
         return "excel"
+    if ext in {".feather", ".ft"}:
+        return "feather"        
+    if ext in {".pickle", ".pkl"}:
+        return "pickle"            
     if ext == ".json":
         return "json"
     return None
@@ -79,6 +87,8 @@ def infer_fmt_from_ext(ext: str) -> str | None:
 def ext_for(fmt_label: str) -> str:
     if fmt_label.startswith("CSV"): return ".csv"
     if fmt_label.startswith("Parquet"): return ".parquet"
+    if fmt_label.startswith("Feather"): return ".feather"        
+    if fmt_label.startswith("Pickle"): return ".pickle"    
     if fmt_label.startswith("Excel"): return ".xlsx"
     if fmt_label.startswith("JSON"): return ".json"
     if fmt_label.startswith("SQLite"): return ".db"
@@ -172,7 +182,8 @@ with st.sidebar:
 
         fmt_label = st.selectbox(
             "Format",
-            ["CSV (.csv)", "Parquet (.parquet)", "Excel (.xlsx)", "JSON (.json)", "SQLite (.db)"],
+            ["CSV (.csv)", "Parquet (.parquet)", "Excel (.xlsx)", "JSON (.json)", "Feather (.feather)",
+            "Pickle (.pickle)", "SQLite (.db)"],
             index=1,
             key="fmt_label"
         )
