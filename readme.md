@@ -4,11 +4,7 @@
 
 ## User and password authentication
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 ## 🧠 Authentication is the process of verifying a user’s identity before granting access to a system.
 
 ### 5 sustainable practices for managing users and their passwords:
@@ -26,7 +22,7 @@
 ![Image](sustainable_user_management.png)
 
 
-Welcome to the solution **Authentication** - an example for your projects
+Welcome to the solution **Authentication** 
 
 User and password authentication
 
@@ -48,13 +44,7 @@ User and password authentication
 ![Image](sustainable_user_management.png)
 
 <br>
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
